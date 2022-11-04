@@ -38,5 +38,5 @@ int main() {
   for(int i = 0; i < 100; i++){
     if(streams[i] == INT_MAX) break;
     cout << round(streams[i]) << " ";
-   }
+  }
 }
